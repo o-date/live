@@ -1,8 +1,8 @@
 # Hi!
 
-You've found the location for our released version of the Open Digital Archaeology Textbook. The source code for our first [beta release](https://github.com/o-date/draft/releases) is now available.
+The source code for our first [beta release](https://github.com/o-date/draft/releases) is now available (including electron-powered apps for off-line use).
 
-The live-written open accessible **perpetual beta** can be [explored here](http://o-date.github.io/draft/book)(https://o-date.github.io/draft/book).
+The online live-written open accessible **perpetual beta** can be [explored here](http://o-date.github.io/draft/book)(https://o-date.github.io/draft/book).
 
 You can learn more about how to use the text and it's 20+ Jupyter Notebooks [on the support site](https://o-date.github.io/support).
 
